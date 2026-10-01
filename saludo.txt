@@ -1,0 +1,2 @@
+Hola, bienvenido a mi practica de Git y GitHub.
+El objetivo es aprender a usar ramas, commits y pull requests para trabajar en equipo.
